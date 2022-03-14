@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32bf2100_ec7e68f4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17793
+      },
+      "writtenOn": "2022-03-14T16:35:27Z",
+      "side": 1,
+      "message": "this is optional btw, doesn’t effect on current themes",
+      "revId": "64701f9259800fde38e710043a3846a3098137f2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
