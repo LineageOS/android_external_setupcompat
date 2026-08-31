@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8b013f02_46f5d770",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-08-31T21:35:37Z",
+      "side": 1,
+      "message": "```suggestion\nUpdate default M3E value to true\n```",
+      "revId": "8a04ab36e4c4eb38b55e3e9e81326d08e4adf0fb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
