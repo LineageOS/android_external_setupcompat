@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "58e30da3_4e5375c5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-14T15:04:38Z",
+      "side": 1,
+      "message": "That\u0027s not a partial revert, it\u0027s the full revert",
+      "revId": "e82d4e1a76828f594aff0141a394a74702c32f44",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
