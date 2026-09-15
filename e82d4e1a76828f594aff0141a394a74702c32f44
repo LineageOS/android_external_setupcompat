@@ -34,6 +34,23 @@
       "parentUuid": "58e30da3_4e5375c5",
       "revId": "e82d4e1a76828f594aff0141a394a74702c32f44",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cb257c84_ddb30cd1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-15T07:07:18Z",
+      "side": 1,
+      "message": "You kept https://github.com/LineageOS/android_external_setupcompat/commit/23f2d967affaead114c42cdbb980dc47dd62a5b4 which is not part of the commit hash you reverted",
+      "revId": "e82d4e1a76828f594aff0141a394a74702c32f44",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
