@@ -16,6 +16,24 @@
       "message": "This is not a proper revert commit message.",
       "revId": "a804e751c4deb4e7beed88299c91ee7a7ff61b48",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9cbcb0ed_8d3348f5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28798
+      },
+      "writtenOn": "2026-09-16T18:46:30Z",
+      "side": 1,
+      "message": "Done, I did a quick update on gerrit at that time, my bad.",
+      "parentUuid": "42d32741_919fde08",
+      "revId": "a804e751c4deb4e7beed88299c91ee7a7ff61b48",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
